@@ -1,13 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Asad-M",
+	"author": "Asad-M-Ashraf",
 	"description": "Back End Developement and APIs curriculum from freeCodeCamp",
 	"keywords": ["freecodecamp", "curriculum", "Back End", "APIs", "Developement"],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "1.2.13"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {

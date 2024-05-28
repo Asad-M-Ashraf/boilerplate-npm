@@ -3,6 +3,8 @@
 	"author": "Asad-M",
 	"description": "Back End Developement and APIs curriculum from freeCodeCamp",
 	"keywords": ["freecodecamp", "curriculum", "Back End", "APIs", "Developement"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
